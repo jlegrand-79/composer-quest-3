@@ -1,0 +1,16 @@
+{
+    "name": "jerome/composer-quest-3",
+    "description": "Composer - 2. PSR-4 & Autoload",
+    "autoload": {
+        "psr-4": {
+            "Jerome\\ComposerQuest3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jérôme Legrand",
+            "email": "jerome.legrand.79@gmail.com"
+        }
+    ],
+    "require": {}
+}
